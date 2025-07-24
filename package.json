@@ -1,0 +1,12 @@
+{
+  "name": "yoga-homepage",
+  "version": "1.0.0",
+  "description": "A calming yoga homepage built with HTML, CSS, and JavaScript",
+  "scripts": {
+    "start": "echo 'No build system yet, just open index.html in your browser'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": ["yoga", "homepage", "static site"],
+  "author": "Surendranath",
+  "license": "ISC"
+}
